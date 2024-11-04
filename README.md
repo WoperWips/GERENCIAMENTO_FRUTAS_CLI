@@ -1,4 +1,4 @@
-Fruta:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada objeto.
+GERENCIAMENTO_FRUTAS_CLI:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada objeto.
 
 🚀 Gerenciador de Frutas
 
@@ -19,4 +19,4 @@ Este é um programa simples em Java que permite ao usuário gerenciar uma lista 
 
 📌 Versão Versão 1.0
 
-✒️ Autores Herick Marlon - Trabalho Inicial - Fruta
+✒️ Autores Herick Marlon - Trabalho Inicial - GERENCIAMENTO_FRUTAS_CLI
